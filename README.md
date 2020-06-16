@@ -1,5 +1,8 @@
 # Use OpenCV and TensorFlow to detect if the person is wearing a mask 
 
+## Project Overview:
+The projects aims to detect if a person is wearing mask or not on a live video. The project can be useful in offices and public spaces to detect if everyone is wearing a mask and adhering to the WHO guidelines. It's a humble request to everyone to follow the guidelines and maintain social distancing to keep yourself safe and healthy. 
+
 ## The Process:
 1. **Training**: Load face mask detection dataset, train a model in Tensorflow using transfer learning, and then serializing the face mask detector to disk
 2. **Deployment**: Load the mask detector, perform face detection with OpenCV, and then classify each face as with_mask or without_mask
