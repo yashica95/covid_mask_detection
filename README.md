@@ -5,7 +5,7 @@
 2. **Deployment**: Load the mask detector, perform face detection with OpenCV, and then classify each face as with_mask or without_mask
 
 ## Dataset Source:
-We ar eusing a subset of dataset created by Prajna Bhandary. This subset of dataset consists of 194 images belonging to two classes: 
+We are using a small subset of dataset created by Prajna Bhandary. This subset of dataset consists of 194 images belonging to two classes: 
 - with_mask: 97 images
 - without_mask: 97 images
 
