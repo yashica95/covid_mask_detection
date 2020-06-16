@@ -1,5 +1,5 @@
 # Use OpenCV and TensorFlow to detect if the person is wearing a mask 
-[![](http://img.youtube.com/vi/S2Eh9su0qfM/0.jpg)](http://www.youtube.com/watch?v=S2Eh9su0qfM)
+[![](http://img.youtube.com/vi/VBGKQ32wm_I/0.jpg)](http://www.youtube.com/watch?v=VBGKQ32wm_I)
 ## Project Overview:
 The projects aims to detect if a person is wearing mask or not on a live video. The project can be useful in offices and public spaces to detect if everyone is wearing a mask and adhering to the WHO guidelines. It's a humble request to everyone to follow the guidelines and maintain social distancing to keep yourself safe and healthy. 
 
