@@ -17,7 +17,7 @@ We are using a small subset of dataset created by Prajna Bhandary. This subset o
 - matplotlib
 
 ## Model Performance:
-The model performed well with our small dataset of only 194 images and gave accuracy of 97.44% on Validation data. The dataset can be expanded to include more realistic images of people wearing masks in different situation, with different poses. 
+The model performed well with our small dataset of only 194 images and gave accuracy of **97.44%** on Validation data. The dataset can be expanded to include more realistic images of people wearing masks in different situation, with different poses. 
 
 ![](https://github.com/yashica95/covid_mask_detection/blob/master/model_performance.png)
 
